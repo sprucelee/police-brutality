@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-13T15:38:52.615237+00:00
+UPDATED AT: 2020-06-15T16:18:05.768053+00:00
 
 
 # Alabama
@@ -1817,7 +1817,7 @@ id: ky-louisville-2
 * [Victim's response](https://twitter.com/KaitlinRustWAVE/status/1268218653104693248)
 
 
-### Young woman shot in the head by a rubber bullet | May 30th
+### Police shoot young woman in the head with a rubber bullet | May 30th
 
 A young woman was injured by a rubber bullet she took to the head.
 
@@ -1830,6 +1830,18 @@ id: ky-louisville-4
 * [Video](https://twitter.com/shannynsharyse/status/1267015577266249728)
 * [Photo of Victim](https://twitter.com/shannynsharyse/status/1266631722239766528)
 
+### Police shoot man in the head with rubber bullet while he is walking away | May 30th
+
+Jonah Albert was peacefully protesting at Cedar and South 6th streets around 8:25pm on May 30th. He was a block away from police, with his back to them walking away when they shot him in the back of the head causing him to fall to the ground bleeding. He is suing LMPD for unlawful battery, excessive force, and violation of Civil Rights. 
+
+tags: rubber-bullets, projectiles, shoot
+
+id: ky-louisville-8
+
+**Links**
+
+* [Wave3 Article and Video](https://www.wave3.com/2020/06/12/protester-shot-head-files-lawsuit-against-law-enforcement/)
+* [WDRB Article and Video(same)](https://www.wdrb.com/news/lawsuit-claims-lmpd-ksp-officers-fired-weapons-at-peaceful-protester/article_c3a4e82c-acdf-11ea-9a51-dfc711c18342.html)
 
 ### Police smashing water bottles | May 31st
 
@@ -1848,13 +1860,26 @@ id: ky-louisville-1
 
 Several police officers shoot from an overpass at cars stuck in traffic. Bystander reports at least one car window broken.
 
-tags: shoot, projectile, property-destruction
+tags: shoot, projectiles, property-destruction
 
 id: ky-louisville-5
 
 **Links**
 
 * [Video](https://twitter.com/Itz5500Gillz/status/1267454024288292867)
+
+### 5 police officers use batons to beat protester | May 31st
+
+A man was pulled from a car and beaten by multiple police officers. In pictures Christian provided to WFPL News, the skin on his legs was broken and bruised in long marks where he said the baton landed. His right forearm was still swollen and red when he met with a reporter six days later. The story also focuses on their mistreatment in prison. 
+
+tags: arrest, beat, baton, strike
+
+id: ky-louisville-9
+
+**Links**
+
+* [Image of wound](https://wfpl.org/wp-content/uploads/2020/06/File-169x300.jpg)
+* [Article and story](https://wfpl.org/protesters-say-they-were-assaulted-before-arrest-fear-covid-19-in-jail/)
 
 
 ### Louisville police swarm and beat a man screaming on the ground | Believed to be June 1st
@@ -1868,7 +1893,6 @@ id: ky-louisville-3
 **Links**
 
 * [Video and reddit thread](https://reddit.com/r/PublicFreakout/comments/gutezm/multiple_kentucky_state_police_troopers_tackled/)
-
 
 ### Restaurant owner shot and killed | June 1st
 
@@ -3123,9 +3147,24 @@ id: ny-rochester-1
 
 ## Asheville
 
+### Police fire tear gas and rubber bullets at protestors | May 31st
+
+According to eyewitness accounts and news reports, police kettled a protest on a bridge and fired both tear gas and rubber bullets. Eyewitnesses note children were among the crowd and protestors attempted to shield them from harm.
+
+tags: child, tear-gas, rubber-bullets, shoot
+
+id: nc-asheville-2
+
+**Links**
+
+* https://www.wyff4.com/article/tear-gas-rubber-bullets-reported-at-asheville-protest/32725369
+* https://www.citizen-times.com/story/news/local/2020/05/31/bowen-bridge-shut-down-protesters-block-highway/5304001002/
+
 ### Police surround approved medical station and destroy supplies | June 2nd
 
 Police destroy supplies, including food and water, at a medical station. Medics and EMTs said the station was approved by the city.
+
+Additional investigation found the station was on private property and conducted with approval from the property owner.
 
 tags: medic, property-destruction
 
@@ -3137,6 +3176,21 @@ id: nc-asheville-1
 *  https://twitter.com/AngelaMWilhelm/status/1267974081577717762
 *  https://twitter.com/daveth89/status/1267974555332685824
 *  https://i.redd.it/wofh339sqr251.png
+*  https://www.usatoday.com/story/news/factcheck/2020/06/03/george-floyd-protests-police-destroy-medic-station-asheville/3124847001/
+*  https://twitter.com/greg_doucette/status/1269071491892682752
+
+### Man shot in head with pepper ball | Date Unknown
+
+A man was shot in the head at close range with a pepper ball. Footage was uploaded on June 9th, but date of incident is unknown.
+
+tags: pepper-ball, shoot
+
+id: nc-asheville-3
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1270378392454672390
+* https://twitter.com/greg_doucette/status/1270378863219138561
 
 
 ## Charlotte
@@ -3145,13 +3199,35 @@ id: nc-asheville-1
 
 Law enforcement close on protesters from both sides with pepper bullets, tear gas, and flashbangs. Some protesters escape into an adjacent parking structure.
 
-tags: tear-gas, tear-gas-canister, pepper-ball, flashbangs
+Jeff Jackson, an NC State senator whose district contains the Uptown Charlotte area, later posted a review of the incident on Medium.com, in which he decries the incident and states he has begun the process of opening an investigation with the Charlotte-Mecklenburg Police Department.
+
+tags: politician, tear-gas, tear-gas-canister, pepper-ball, flashbangs
 
 id: nc-charlotte-1
 
 **Links**
 
 *  https://www.instagram.com/tv/CA9UOKAj7MC/
+*  https://twitter.com/greg_doucette/status/1268030671706099717
+*  https://twitter.com/greg_doucette/status/1268030671706099717
+*  https://www.youtube.com/watch?v=QmJEQVj2fdc&feature=youtu.be
+*  https://medium.com/@Jeff_Jackson/review-of-incident-in-charlotte-on-4th-street-on-the-evening-of-june-2nd-2963d4598500
+
+
+### Police arrest representative from The Bail Project | June 8th
+
+Video shows numerous police officers charging an individual, before throwing them to the ground and kneeling on them to make an arrest. As they walk the individual from the scene, she states her restraints are too tight, but police do not acknowledge her. Protestors nearby ask why she is being arrested; police say, "Watch the news video."
+
+Protestors identified this individual as a representative from The Bail Project who was slated to speak at a protest later that day.
+
+tags: arrest, knee, shove, throw, inhumane-treatment
+
+id: nc-charlotte-2
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1270185252665864193
+* https://twitter.com/kaitlinwa24/status/1270113046606864389
 
 
 ## Raleigh
@@ -3184,6 +3260,48 @@ id: nc-raleigh-4
 * https://twitter.com/KateMurphyNews/status/1267227888811741190
 * https://www.cbs17.com/news/local-news/wake-county-news/about-100-march-during-protest-in-downtown-raleigh-sunday-afternoon/
 * https://www.wral.com/raleigh-police-fire-tear-gas-again-on-second-day-of-downtown-protests/19123254/
+
+
+### Police shoot fleeing man at short range | May 31st
+
+Police fire repeatedly at man who is attempting to leave the protest with his hands up. After shooting several times, an officer runs up and strikes the man in the back of the head and throw him to the ground to make an arrest. Tear gas begins to fill the road as officers arrest him.
+
+tags: tear-gas, shoot, rubber-bullets, strike, beat, arrest, throw, shove
+
+id: nc-raleigh-5
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1267295157885505537
+* https://twitter.com/greg_doucette/status/1267836827328819200
+
+
+### Police fire tear gas at peacful protestors | May 31st
+
+Police fire tear gas at protestors throughout protests on May 31st. Footage show police firing into a crowd.
+
+tags: tear-gas
+
+id: nc-raleigh-6
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1266951077183868928
+* https://youtu.be/hZsQY1XagKc
+
+
+### Police fire riot control rounds into protest | May 31st
+
+Footage shows a crowd protesting in place with hands up. Shots are heard and a protestor runs to kick a projectile back. Filmer states that police are firing "what appears to be pepper-spray pellets," which are likely pepper balls. Greg Doucette spreadsheet additionally suggests the projectiles are pepper balls.
+
+tags: pepper-balls, shoot
+
+id: nc-raleigh-7
+
+**Links**
+
+* https://twitter.com/LiamCurrie16/status/1266948510022320130
+* https://www.youtube.com/watch?v=_ciMl0fLcgY&feature=youtu.be
 
 
 ### Police shoot to intimidate owner of LGBTQ bar | June 2nd
@@ -4697,6 +4815,7 @@ id: wa-seattle-14
 * [Video showing individual getting hit with projectile (0:11), falling down, and becoming unresponsive. Medics carry them away from police.](https://twitter.com/chaseburnsy/status/1269890344331571201)
 * [Firsthand account from the medic](https://www.reddit.com/r/Seattle/comments/gywxhz/folks_i_need_your_help/)
 * https://imgur.com/a/fWkU0SA
+* https://kuow.org/stories/this-26-year-old-died-three-times-after-police-hit-her-with-a-blast-ball
 
 
 ### Additional Seattle OPA Case Numbers

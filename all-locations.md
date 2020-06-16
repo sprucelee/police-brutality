@@ -1,10 +1,26 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-15T16:18:05.768053+00:00
+UPDATED AT: 2020-06-16T02:25:47.481921+00:00
 
 
 # Alabama
+
+## Hoover
+
+### Police make a series of violent arrests | May 31st
+
+During a peaceful protest, police corral protestors onto a hill. Officers snatch protestors at the edges and throw them to the ground to make arrests.
+
+tags: arrest, shove, throw, push, knee
+
+id: al-hoover-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1269810926863163394
+* https://twitter.com/greg_doucette/status/1269812337696964608
+* https://twitter.com/mtvtacallya/status/1267318555604910081
 
 ## Huntsville
 
@@ -62,6 +78,7 @@ id: al-huntsville-4
 * https://www.alreporter.com/2020/06/03/huntsville-police-deploy-tear-gas-rubber-bullets-on-protesters/
 * https://twitter.com/IanHoppe/status/1268350756186460164
 * https://twitter.com/ByChipBrownlee/status/1268357881381957635
+* https://twitter.com/Josh_Moon/status/1268589098404642817
 
 
 ### Police fire rubber bullets on dispersing crowd | (believed to be) June 5th
@@ -1439,13 +1456,18 @@ id: il-chicago-3
 **Links**
 
 * https://twitter.com/johncusack/status/1266938983575101441
+* https://www.youtube.com/watch?v=J4oRyvPJgnE&feature=youtu.be
 
 
 ### Police pull black women out of the car and throw them to the ground | May 31st
 
-Police are seen attacking a car and pulling two black women out of a car and shoving them to the ground (unclear motive).
+Police are seen attacking a car and pulling two black women out of a car and shoving them to the ground (unclear motive). Block Club Chicago states the victims were detained for disorderly conduct and that police drove off with one of the victims in the car, leaving the other two in the lot.
 
-tags: shove
+Victim states that officers kneeled on her neck, that shards of glass from her broken window lacerated her face, and that an officer called her "a f---- savage." In addition, she states she was not given access to an attorney and was not allowed a phone call for 6 hours.
+
+After release (with neither charges nor explanation), the victim attempted to file a complaint but was told the complaint line was unnaccesible.
+
+tags: shove, throw, arrest, property-destruction, knee-on-kneck, knee, inhumane-treatment
 
 id: il-chicago-4
 
@@ -1454,6 +1476,7 @@ id: il-chicago-4
 * https://twitter.com/AdrienneWrites/status/1267534983054254081
 * https://blockclubchicago.org/2020/06/03/black-women-pulled-from-car-kneeled-on-by-chicago-police-officers-outside-northwest-side-mall-i-was-scared-for-my-life/
 * https://chicago.cbslocal.com/2020/06/03/police-drag-women-out-of-car-outside-brickyard-mall-woman-says-officer-put-knee-on-neck/
+* https://twitter.com/greg_doucette/status/1267594960955748352
 
 
 ### Cops hit Chicago Police Board President | May 31st
@@ -1471,32 +1494,22 @@ id: il-chicago-6
 * https://news.wttw.com/2020/06/05/police-board-president-officers-struck-me-5-times-their-batons-during-protest
 
 
-### Officer covers badge | May 31st
+### Officers cover badges and remove body cams | May 31st
 
-In this still photo, the officer's ID number on their vest is covered with duct tape.
+Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
 
-tags: hide-badges
+tags: hide-badges, body-cams
 
 id: il-chicago-10
 
 **Links**
 
 * https://twitter.com/KyleWilkins/status/1267268393809387520/photo/1
-
-
-### Officers are missing badges | May 31st
-
-Several photos and video in this Twitter thread show officers missing body cams, badges, or covering up badges on their uniforms on May 31st.
-
-tags: hide-badges
-
-id: il-chicago-13
-
-**Links**
-
 * https://twitter.com/CHICAGOCREATUR1/status/1268607315902697478
 * https://twitter.com/helllucinate/status/1267237866935136258
 * https://twitter.com/trashrascal/status/1268669040312147969
+* https://twitter.com/greg_doucette/status/1269088712735981568
+* https://twitter.com/greg_doucette/status/1269087986043564033
 
 
 ### Video showing CPD officer punching protester in Uptown under investigation | June 1st
@@ -1509,6 +1522,7 @@ id: il-chicago-7
 
 **Links**
 * https://www.youtube.com/watch?time_continue=44&v=_urY-W8otNA
+* https://twitter.com/greg_doucette/status/1268323060026937345
 * https://chicago.suntimes.com/crime/2020/6/3/21279501/police-video-cpd-officer-punch-protester-uptown-investigation-copa
 
 
@@ -1775,6 +1789,7 @@ id: ia-desmoines-5
 * http://iowainformer.com/politics/2020/06/des-moines-gay-bar-raided-amid-black-lives-matter-protests-as-pride-month-begins/
 * https://twitter.com/aaronpcalvin/status/1268708285517004801
 * [Location via Google Street View](https://www.google.ca/maps/place/The+Blazing+Saddle/@41.590306,-93.6114412,3a,75y,275.31h,90t/data=!3m7!1e1!3m5!1sysYseTIG29m9bjNYmZ71zQ!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DysYseTIG29m9bjNYmZ71zQ%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D275.31018%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192!4m7!3m6!1s0x87ee99b1e2f004c9:0xf6f27ceb30ff9e27!8m2!3d41.5902914!4d-93.6115743!14m1!1BCgIgARICCAI)
+* https://www.facebook.com/permalink.php?story_fbid=1182620968746799&id=100009967212544
 
 
 ## Iowa City
@@ -1944,6 +1959,8 @@ id: la-neworleans-1
 * https://twitter.com/ckm_news/status/1268382403367763970
 * https://twitter.com/brynstole/status/1268381340073971713
 * https://twitter.com/xxnthe/status/1268427759870775298
+* https://twitter.com/greg_doucette/status/1268520538391134208
+* https://www.wdsu.com/article/protesters-on-i-10-reach-top-of-crescent-city-connection/32761790
 
 
 
@@ -2708,6 +2725,27 @@ id: nv-lasvegas-2
 
 
 
+# New Jersey
+
+## Asbury Park
+
+### Police arrest woman and reporter | June 1st
+
+Footage shows a woman tackled by multiple officers and thrown into bushes before an officer kneels on her to make an arrest. Another protestor is arrested in the background.
+
+As reporter is backing away, police yell at him to go him. 
+
+Another officer is heard saying, "Fuck him," before arresting the reporter.
+
+tags: journalist, arrest, shove, push, tackle
+
+**Links**
+
+* https://www.northjersey.com/story/news/local/how-we-live/2020/06/01/app-reporter-apparently-arrested-asbury-park-george-floyd-protest/5314750002/
+* https://twitter.com/greg_doucette/status/1270480487249776641
+
+
+
 # New York
 
 ## Buffalo
@@ -2778,6 +2816,7 @@ id: ny-newyorkcity-1
 * https://twitter.com/whitney_hu/status/1266540710188195843
 * https://twitter.com/JasonLemon/status/1266529475757510656
 * https://twitter.com/zayer_dounya/status/1266581597760831489
+* https://www.democracynow.org/2020/6/15/dounya_zayer_nypd_attack
 
 
 ### Police drive by man and hit him with car door | May 29th
@@ -3359,6 +3398,22 @@ id: nc-wilmington-1
 
 ## Fargo
 
+### Fargo deputy police chief instigates unrest during protest | June 1st
+
+In an email sent to the Fargo PD, the deputy chief of police, Todd Osmundson, apologized for instigating unrest during George Floyd protests. He admits to carrying alcoholic containers and to cursing at police officers. 
+
+At this protest, individuals were charged with inciting a riot; Osmundson was not one of those individuals despite his unruly presence and aggressive remarks.
+
+Earlier that day, Osmundson appeared in uniform at protests, carrying a supportive sign.
+
+tags: abuse-of-power, incitement
+
+id: nd-fargo-2
+
+**Links**
+
+* https://www.grandforksherald.com/opinion/6520779-Port-Fargo-Deputy-Chief-sends-apology-email-after-he-was-seen-at-George-Floyd-protest-with-a-beer-can-cursing-at-law-enforcement
+
 ### Police using selective enforcement on black individuals | June 3rd
 
 Multiple people pass by the police until they decide to arrest the only two black individuals in the line.
@@ -3868,6 +3923,38 @@ id: or-portland-6
 * https://twitter.com/DonovanFarley/status/1269701897377603584
 * https://www.wweek.com/news/city/2020/06/07/portland-reporter-pens-first-person-account-of-being-pepper-sprayed-while-filming-an-arrest/
 
+### Officer forces press away from protest | June 8th
+
+A reporter with a press pass is told that his pass does not matter and press is not permitted at the scene. Later, a second officer states the same thing. After asking the second officer for his name, the officer lets the reporter film his badge number but does not give his name. After asking again, the officer threatens the journalist, saying: "Do you want to go to jail?" before grabbing the journalist and arresting them.
+
+Reports on the Portland curfew state explicitly that media are exempt from curfew restrictions.
+
+tags: journalist, threaten, arrest, grab
+
+id: or-portland-7
+
+**Links**
+
+* [15:30, 17:50](https://twitter.com/45thabsurdist/status/1269882746656002049)
+* [Article on curfew](https://www.oregonlive.com/coronavirus/2020/05/portland-curfew-begins-at-8-pm-saturday-in-response-to-overnight-riot-what-that-means-for-you.html)
+
+
+## Salem
+
+### Before firing tear gas, Salem PD warns Proud Boys | June 4th
+
+A police officer is seen warning members of the "Proud Boys," an SPLC-designated hate group, and other white supremacists that they are planning to fire tear gas, and that these members should find a safe, indoors location so that the PD does not appear to be playing favorites. The officer states that this warning comes at the request of his command.
+
+tags: tear-gas, inhumane-treatment
+
+id: or-salem-1
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1268940700944605187
+* https://www.buzzfeednews.com/article/davidmack/salem-oregon-cop-warn-white-armed-men-playing-favorites
+* https://twitter.com/Satellit3Heart/status/1268863536299675648
+
 
 
 # Pennsylvania
@@ -4074,6 +4161,7 @@ id: pa-pittsburgh-2
 ## Charleston
 
 ### Police Individually Target Peaceful Protestor and Arrest Him | May 31st
+
 A man in Charleston peacefully leading a protest is suddenly singled out, brought behind the police force's line, and arrested without explanation.
 
 tags: arrest
@@ -4085,7 +4173,17 @@ id: sc-charleston-1
 * https://www.reddit.com/r/PublicFreakout/comments/guxm5o/police_arresting_a_peaceful_protestor_for_simply/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 * https://www.reddit.com/r/iamatotalpieceofshit/comments/gugrfa/man_reaches_out_with_love_to_the_cops_and_they/
 * [https://www.postandcourier.com/news/he-told-charleston-police-i-am-not-your-enemy-then-he-was-handcuffed/article_e7de4b0a-a43f-11ea-a019-1f9e6a20ea55.html](https://www.postandcourier.com/news/he-told-charleston-police-i-am-not-your-enemy-then-he-was-handcuffed/article_e7de4b0a-a43f-11ea-a019-1f9e6a20ea55.html)
+* https://twitter.com/greg_doucette/status/1267423284179742721
 
+### APC collides with bystander car | May 31st
+
+News footage shows a civilian car after a collision with a police APC. The driver states that she was hit while driving through a green light by an APC without sirens.
+
+tags: drive, vehicle, property-destruction
+
+id: sc-charleston-2
+
+* https://twitter.com/greg_doucette/status/1267228530368229376
 
 ## Location Unknown
 
@@ -4116,6 +4214,22 @@ id: tn-memphis-1
 **Links**
 
 * https://twitter.com/Desi_Stennett/status/1266996885824380929
+
+## Murfreesboro
+
+### Police tear gas peaceful protestors | May 31st
+
+Police fire tear gas at a small group of peaceful protestors by the entrance to MTSU in Murfree. Police claim protestors were blocking traffic, which additional footage supports. However, the video in question shows continual deployment of tear gas after protestors moved off the road.
+
+tags: tear-gas
+
+id: tn-murfreesboro-1
+
+**Links**
+
+* [Police statement](https://twitter.com/mjhubbard1/status/1267253396245020674)
+* [Protestors blocking traffic](https://twitter.com/aConCitizen/status/1267251533655289860)
+* [Continued deployment of tear gas after protestors had moved](https://twitter.com/joe_spears7/status/1267246919673434113)
 
 
 

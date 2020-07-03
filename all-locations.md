@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-07-02T18:01:23.937204+00:00
+UPDATED AT: 2020-07-03T02:47:41.890497+00:00
 
 
 # Alabama
@@ -851,6 +851,24 @@ id: ca-losangeles-22
 * https://twitter.com/josie_huang/status/1274863117004988416
 
 
+## Norco
+
+### Woman struck by white supremacist while police look on | June 29th
+
+A man wearing a shirt with two SS lightning bolts harasses a filming BLM protestor. He and another counter-protestor call her a bitch repeatedly, then slaps the phone out of her hand. Police state they did not see the incident, although the link shows clearly that an officer is standing next to them. The officer is joined by another. They stand between the groups of protestors and tell the BLM protestors to keep moving. The woman says she needs to find her phone and the officer says they have to come back for it later.
+
+In addition, the second link shows this individual having assaulted protestors on multiple occasions without repercussion.
+
+tags: abuse-of-power
+
+id: ca-norco-1
+
+**Links**
+
+* https://twitter.com/le_maria21/status/1277801107033481216
+* https://twitter.com/le_maria21/status/1277800993984413696
+
+
 ## Oakland
 
 ### Officer runs down protesters with police cruiser | (believed to be) May 30th
@@ -1579,6 +1597,19 @@ id: co-denver-18
 * https://www.reddit.com/r/protest/comments/gx7voh/denver_police_knocking_a_kid_out_and_losing/
 
 
+### Police pepper spray protestor with hands up | (Believed to be) June 21st
+
+Footage shows a protestor following police direction across a road. He stops to ask why police moved him off the sidewalk into the road and are now telling him he cannot be on the road. Officers do not respond. Protestor continues to ask. Another officer approaches and discharges pepper spray without warning.
+
+tags: pepper-spray, spray
+
+id: co-denver-20
+
+**Links**
+
+* https://twitter.com/wisenoons/status/1274743833410994176
+
+
 
 
 # Connecticut
@@ -1707,6 +1738,7 @@ id: fl-fortlauderdale-1
 * https://twitter.com/thickliljawn/status/1267239498083110913
 * https://www.reddit.com/r/PublicFreakout/comments/gubleh/officer_gets_confronted_by_another_officer_for/
 * https://www.miamiherald.com/news/local/crime/article243234261.html
+* https://www.sun-sentinel.com/local/broward/fort-lauderdale/fl-ne-officer-shoved-protestor-charged-battery-steven-pohorence-20200630-wqyatvgu6fc4hdtnsvmtlhe7be-story.html
 * https://www.nbcnews.com/news/us-news/fort-lauderdale-officer-who-pushed-over-kneeling-protester-video-charged-n1232606
 
 
@@ -1757,6 +1789,24 @@ id: fl-miami-1
 **Links**
 
 * https://twitter.com/BillyCorben/status/1267644127178563588
+
+
+### Police deployed two rounds of tear gas against peaceful protestors | June 27th
+
+A group of protestors blocked highway 395 in Miami. Police deployed tear gas at 9:00 pm and 9:09 PM to clear protestors.
+
+In the 9:00 PM round, the filmer can be heard saying, "They're smoke bombs. No, they're not. They're tear gas." The filmer then flees with other protestors. Footage then shows a woman screaming and in sufficient pain that another protestor is needed to carry her away quickly.
+
+Around 9:09 PM, protestors gathered on the highway on-ramp. Police then, without warning, fired another round of tear gas, forcing protestors to flee. The caption states multiple protestors were shot with rubber bullets, but no shots can be heard in this footage.
+
+tags: tear-gas
+
+id: fl-miami-2
+
+**Links**
+
+* [9:00 round](https://twitter.com/inaminorkey/status/1277070049518465032)
+* [9:09 round](https://twitter.com/inaminorkey/status/1277078077303132160)
 
 
 ## Orlando
@@ -4573,11 +4623,37 @@ id: ny-newyorkcity-49
 * [Pepper-sprayed officer; motorcycles](https://mobile.twitter.com/chayesmatthew/status/1277336251239145473)
 
 
+### Police shove bicyclist to the ground | June 28th
+
+Footage shows a protestor with a bicycle standing behind a police van. An officer walks over and shoves him to the ground with his baton.
+
+tags: shove, baton, strike
+
+id: ny-newyorkcity-51
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277636698806116352
+
+
+### Police shove their way through crowd | June 28th
+
+At part of the Pride March, protestors gathered inside the park, a pedestrian & bike only zone. Footage shows crowd chanting "Shame" as 3 police officers make their way through the crowd. One officer appears to shove his way through. As he exits the crowd, he continues to shove protestors who are standing idly by. The other two officers walk him away, appearing to try and calm him down.
+
+tags: shove, push
+
+id: ny-newyorkcity-52
+
+**Links**
+
+* https://twitter.com/GaelicSteel/status/1277344251970494469
+
+
 ### Police violently arrest protestors camped out for budget vote | June 30th
 
 Hundreds of people have been camping out near NYC City Hall for the last week in anticipation of a budget vote. NYPD were sent on June 30th, the day of the vote, to disperse protestors. Footage shows violent arrests.
 
-In particular, police manhandle already zip-tied protestor. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
+In particular, police manhandle already zip-tied protestor. The protestor stumbles, apparently struggling to remain conscious. Protestors shout at police to seek medical treatment for him. Another protestor comes to intervene. He is summarily punched, choked, shoved and struck with a baton by multiple officers.
 
 The second clip shows arrest warning if protestors step on streets.
 
@@ -4724,13 +4800,14 @@ id: nc-charlotte-3
 
 Around 7pm on May 30th, Raleigh police fired tear gas and pepper spray into a peaceful protest. Footage shows protestors surprised at the escalation and turning to flee, as well as multiple protestors hit directly by projectiles. In addition, the article claims police targeted both protestors and journalists with rubber bullets. The escalation did then incite some protestors to return fire with rocks, fireworks, and police tear gas canisters.
 
-tags: tear-gas, tear-gas-canister
+tags: tear-gas, tear-gas-canister, journalist, rubber-bullets
 
 id: nc-raleigh-2
 
 **Links**
 
 * https://www.newsobserver.com/news/local/article243114301.html
+* https://twitter.com/vizjourno/status/1266954106998009857
 
 
 ### Police use tear gas to clear road | May 31st
@@ -5314,6 +5391,20 @@ id: oh-columbus-18
 * [Reposted on military news site](https://americanmilitarynews.com/2020/06/bronze-star-veteran-ryan-mcmullen-served-in-afghanistan-but-didnt-get-hurt-until-protesting-in-columbus/amp/)
 
 
+### Police drive up to protestors, jump out and tackle them | (Believed to be) June 6th
+
+Footage shows two police SUVs accelerating past the police line, knocking over a trash can in the process. They pull up next to protestors and jump out of the car. Police from the vehicles and on the street charge protestors, tackle them, and arrest them. Police appear to kneel on protestors while making arrests.
+
+tags: vehicle, tackle, arrest, knee
+
+id: oh-columbus-24
+
+**Links**
+
+* https://www.tiktok.com/@frecklesandstitches/video/6835226979596340485
+* https://twitter.com/TrekkieByBirth/status/1276719505528492033
+
+
 ### Man maced by police | June 21st
 
 Footage shows the aftermath of police macing a man with prosthetic legs. Protestors have gathered to give medical aid to the man. His prosthetic legs appear to have been disconnected. Users on Reddit and Twitter state that police disconnected the man's legs.
@@ -5359,6 +5450,22 @@ id: oh-columbus-21
 **Links**
 
 * https://www.reddit.com/r/PublicFreakout/comments/hdwgfb/columbus_ohio_cops_ram_protesters_with_bikes/
+
+
+### Police drag seated protestor, body slam a second | June 29th
+
+Footage shows a protestor seated on the edge of the road. An officer drags the protestor into the street and forces her to lay down to arrest. As other protestors express frustration, another officer runs over, lifts a protestor off the ground and slams her on her back. Police kneel on both protestors to make arrests.
+
+The second clip is a lengthy (53 minute) account from the original filmer.
+
+tags: arrest, push, shove, throw, knee
+
+id: oh-columbus-23
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277660155354796033
+* https://www.instagram.com/tv/CCAZGCWjqG1
 
 
 ## Dayton
@@ -5903,6 +6010,19 @@ id: or-portland-31
 * https://twitter.com/chadloder/status/1277360969228771329
 
 
+### Police fire explosives from behind barricade | June 26th
+
+Footage shows protestors gathered outside a building with plywood walls erected. Filmer states that police have barricaded themselves behind the plywood walls. Around 30 seconds, a small window opens in the barricade. Police launch multiple explosives at the crowd from this window.
+
+tags: explosive, projectile
+
+id: or-portland-40
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1277685523595788290
+
+
 ### Police charge protestors, shoving them and beating them with batons | June 27th
 
 In a post uploaded June 27th, in what appears to be the early hours of the morning, footage shows police charging at fleeing protestors. They strike numerous protestors with their batons and shove others. On protestor is thrown to the ground. He tries to stand but is shoved back to the ground by an officer and struck with a baton. Protestors attempt to intervene but are shoved and struck as well. They eventually help the man to his feet and he steps behind them. Protestors and police then shout at each other.
@@ -6032,6 +6152,98 @@ id: or-portland-39
 
 * https://twitter.com/PredatorFiles/status/1277933736441479170
 * https://twitter.com/i/web/status/1277909390159306752
+
+
+### Police pepper-spray, strike and shoot protestors at point-blank range | June 30th
+
+Full footage shows police pushing protestors east under dispersal order from LRAD speaker. Protestors move slowly and walk backwards. Two officers then shove protestors with their batons. Another protestor steps in between them and is pepper-sprayed.
+
+Footage then shows police attempting to tear banner out of the hands of protestors obeying dispersal instructions. Another officer runs over and shoots protestors repeatedly from a range of less than five feet. Guidelines for riot rounds are for use at 10-30 yards.
+
+tags: shoot, projectile, property-destruction, baton, shove, strike, pepper-spray, spray
+
+id: or-portland-41
+
+**Links**
+
+* https://www.reddit.com/r/2020PoliceBrutality/comments/hjdh39/portland_or_police_mace_beat_and_shoot_rubber/
+* https://twitter.com/defendpdx/status/1278192323575218176
+
+
+### Reporter arrested after identifying officer | June 30th
+
+Footage shows police pushing protestors east under direction of a dispersal order. After a scuffle with police around 1:30, the filmer recognizes an officer.
+
+Then for several minutes, police argue with him about his presence and whether he as a journalist is allowed on the scene.
+
+At 5:20, the filmer asks an officer for his number. The officer shows the number on his helmet and the filmer then identifies him. The officer then ignores him. At 6:15, a second officer approaches. He and the recognized officer then arrest the journalist.
+
+He has allegedly been charged with assault of a police officer, interference with a police officer, resisting arrest and disorderly conduct. A screenshot of his charges is included in the 4th link.
+
+tags: journalist, threaten, arrest
+
+id: or-portland-42
+
+**Links**
+
+* https://www.pscp.tv/w/1lPKqLgBrBWxb
+* https://twitter.com/PNWResistance/status/1278247639708913664
+* https://www.reddit.com/r/Portland/comments/hj5m28/cory_elia_press_arrested_while_livestreaming_last/
+* https://twitter.com/PredatorFiles/status/1278270595235344385
+
+
+### Police fire tear gas at protestors | June 30th
+
+In the span of approximately 30 seconds, police fire about a dozen tear gas canisters at a crowd of protestors. A handful of canisters are thrown back, but the vast majority of protestors flee as police continue to fire.
+
+tags: tear-gas
+
+id: or-portland-43
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hj42i3/portland_police_fire_cs_gas_at_protestors/
+
+
+### Police arrest journalist | June 30th
+
+Footage shows police arresting a member of the press. Her hands are cuffed behind her back. She coughs and vomits, allegedly from tear gas exposure. Police remove her press badge and search her. She states that police are taking cash from her back right pocket. Protestors shout that police are laughing, but it is not audible in the footage.
+
+tags: tear-gas, journalist, arrest, abuse-of-power
+
+id: or-portland-44
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hjb863/portland_police_removing_journalists_press_badge/
+
+
+### Police shoot protestors | July 2nd
+
+Around 2:30 in the morning on July 2nd, footage shows police shooting at protestors (off-screen). The filmer states that protestors are chanting and occasionally throwing water bottles. No water bottles are seen as police shoot in spurts throughout the video.
+
+tags: shoot, projectile
+
+id: or-portland-46
+
+**Links**
+
+* https://twitter.com/KohzKah/status/1278578914613288961
+
+
+### Journalist shot by police | July 2nd
+
+Footage shows a streamer approaching the boarded-up justice center. Without warning, shots can be heard and the streamer, with a handful of other protestors, flees to the opposite side of the street. Police continue to fire.
+
+Journalist states they were hit by "some kind of pepper shrapnel," suggesting the police were firing pepper balls.
+
+tags: shoot, journalist, pepper-ball
+
+id: or-portland-45
+
+**Links**
+
+* https://twitter.com/PredatorFiles/status/1278635513746870276
 
 
 ## Salem
@@ -6387,8 +6599,54 @@ id: sc-charleston-2
 * https://twitter.com/greg_doucette/status/1267228530368229376
 
 
+### Police violently arrest protestor | June 22nd
+
+A protest and counter-protest between BLM supporters and statue supporters. Groups shouted at one another but stayed separate. After the protest, BLM supporters marched down the street followed by police.
+
+Footage shows violence during the arrest of a protestor as 3 police officers wearing hoods that resemble balaclavas. They tackle the protestor to the ground. One officer then kneels on his back to make the arrest. A fourth officer in a patrol uniform comes to assist. The man is seen bleeding from the face. The masked officers do not appear to be wearing badges.
+
+Police charged him with disobeying a lawful order and resisting arrest.
+
+tags: arrest, shove, strike, beat, tackle, hide-badges
+
+id: sc-charleston-3
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1275254514501799939
+* https://www.live5news.com/2020/06/23/police-make-one-arrest-during-monday-night-calhoun-statue-protests/
+
+
+
 
 # Tennessee
+
+## Chattanooga
+
+### Sheriffs tear gas crowd after accidental vandalism | May 31st
+
+Footage from the first link shows two protestors attempting to remove a sign strung between two lampposts on a mezzanine. The lampposts fall over during this process. Then at 00:40, officers rush out of the building, seizing protestors.
+
+The second clip shows officers with rifles making arrests on the mezzanine. Officers then pull what appear to be service pistols and point them at protestors. More officers step out of the building onto the mezzanine and take the staircase. Protestors and police face each other at the foot of the stairs. Protestors begin chanting.
+
+The third clip shows police dropping tear gas canisters from the mezzanine. Protestors flee.
+
+The fourth clip shows protestors attempt to recover their belongings while police launch more tear gas. Protestors flee to the far sidewalk as police move into the street.
+
+An article from the Chattanoogan states Sheriffs threw the tear gas, not Chattanooga police.
+
+tags: 
+
+id: tn-chattanooga-1
+
+**Links**
+
+* https://www.youtube.com/watch?v=Jkj3EfktVkM
+* https://www.youtube.com/watch?v=MeIV1kSsPZg
+* https://www.youtube.com/watch?v=rq_2YSLn4FE
+* https://www.youtube.com/watch?v=-kuD_naCPzo
+* https://www.chattanoogan.com/2020/5/31/409849/Protestors-Face-Off-With-Law.aspx
+
 
 ## Memphis
 
@@ -7589,6 +7847,34 @@ id: wa-seattle-20
 * [Video showing protester getting pepper sprayed (1:16)](https://www.facebook.com/natalie.bell.7334504/videos/949526905485027/)
 
 
+### Police strike and pepper spray protestors while marching on 13th Precinct | July 1st
+
+Footage shows police line approaching scattered peaceful protestors. Police snatch and grab to make rough arrests. When protestors attempt to intervene they are shoved, struck with batons, and pepper sprayed.
+
+tags: arrest, pepper-spray, spray, shove, strike, baton
+
+id: wa-seattle-21
+
+**Links**
+
+* https://www.reddit.com/r/PublicFreakout/comments/hjln90/seattle_police_department_retaking_the_13th/
+* https://twitter.com/greg_doucette/status/1278565827747471361
+
+
+### Police arrest protestor during CHAZ/CHOP clearing | July 1st
+
+As police prepare to clear CHOP, a protestor asks a question. Police then target him. He flees. Numerous police officers chase him, tackle him and kneel on his neck to arrest him.
+
+tags: arrest, tackle, knee, knee-on-kneck
+
+id: wa-seattle-22
+
+**Links**
+
+* https://twitter.com/greg_doucette/status/1278544686546911232
+* https://clips.twitch.tv/LittleProtectiveDillAsianGlow
+
+
 
 
 # Washington DC
@@ -7879,24 +8165,6 @@ id: dc-dc-23
 * https://twitter.com/LiteraryMouse/status/1275228261140791299
 
 
-### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
-
-Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests.
-
-Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
-
-tags: pepper-spray, spray, tear-gas, flashbangs
-
-id: dc-dc-18
-
-**Links**
-
-* https://twitter.com/rawsmedia/status/1275671784554221574
-* https://twitter.com/rawsmedia/status/1275673321959497729
-* https://twitter.com/rawsmedia/status/1275675725358600192
-* https://twitter.com/rawsmedia/status/1275688665486897152
-
-
 ### Footage shows officer with tape over badge number | June 23rd
 
 Footage shows an argument between a protestor an officer. The protestor films close to the officer's face; the officer shines his flashlight in the protestor's eye.
@@ -7941,6 +8209,29 @@ id: dc-dc-22
 
 * https://twitter.com/maryamnayebyazd/status/1275493238619635714
 * https://twitter.com/maryamnayebyazd/status/1275493885188485120
+
+
+### Police use pepper spray, flashbangs and tear gas to disperse protest | June 23rd
+
+Multiple videos from Raws media show police use of pepper spray, flashbangs and tear gas to disperse small, peaceful protests.
+
+Protestors appear to have erected small barricades in the streets using traffic cones and planters. Police fire on protestors at range with flashbangs and tear gas. Then in a later video, police line can be seen chanting, "Move back," while spraying pepper spray.
+
+The second clip from Raws shows protestors attempting to treat a fellow protestor who was injured in the first round of violence.
+
+Additional footage posted on Youtube shows similar events. Around 4 minutes, this footage also shows police pushing a man on crutches and harassing him to move faster. Protestors attempting to help the man on crutches are assaulted.
+
+tags: pepper-spray, spray, tear-gas, flashbangs, shove, push, strike, person-with-disability
+
+id: dc-dc-18
+
+**Links**
+
+* https://twitter.com/rawsmedia/status/1275671784554221574
+* https://twitter.com/rawsmedia/status/1275673321959497729
+* https://twitter.com/rawsmedia/status/1275675725358600192
+* https://twitter.com/rawsmedia/status/1275688665486897152
+* https://www.youtube.com/watch?v=aC1udgaUzDI
 
 
 ### Police target protestor handing out water | June 27th
